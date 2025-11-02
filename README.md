@@ -1,5 +1,5 @@
 # PCA vs Bayesian Shrinkage vs OLS and PLS  
-### Predicting Loan Approval through Dimensionality Reduction and Regularization
+### Predicting Loan Approval 
 
 ---
 
